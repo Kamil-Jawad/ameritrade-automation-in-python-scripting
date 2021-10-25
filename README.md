@@ -1,5 +1,6 @@
 # ameritrade-automation-in-python-scripting
 Summary:
+
 This is basically a fiverr project related to the stock orders automation on ameritrade. In this project I wrote the automation script to automate the order placement according to client requirements. All the files and code are in this repository.
 
 Programming language: 
@@ -19,6 +20,7 @@ The folder "requirements and orders sample" contains the requiremt of the client
 "orders.xlsx" contains the sample orders.
 
 "tdameritrade" folder:
+
 "token" file has token that given by the ameritrade api.
 "trade.py" implementation of all the logics main file of code.
 "place_order.py" takes the oders from the file and place via ameritrade api.
