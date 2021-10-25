@@ -1,0 +1,8 @@
+Quick Explanation of difference between “market” buy order and buy “stop” order:
+
+Market Buy Order:
+-Fill immediately at the current price
+
+Stop Buy Order:
+-A buy stop order is an order to purchase a security only once the price of the security reaches the specified stop price.
+-The stop price is entered at a level, set above the current market price.
