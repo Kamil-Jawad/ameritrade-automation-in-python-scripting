@@ -15,6 +15,7 @@ pandas
 
 tda-api
 
+
 Project folders and files description:
 
 The folder "requirements and orders sample" contains the requiremt of the client and orders samples.
@@ -26,6 +27,7 @@ The folder "requirements and orders sample" contains the requiremt of the client
 "Edits to Script 10.18.21 (1).docx" in this file client have minor changes and I have also done these changes in the code.
 
 "orders.xlsx" contains the sample orders.
+
 
 "tdameritrade" folder:
 
