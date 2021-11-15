@@ -1,5 +1,5 @@
 # ameritrade-automation-in-python-scripting
-                                                                           Summary:
+                                                                       Summary:
 
 This is basically a fiverr project related to the stock orders automation on ameritrade. In this project I wrote the automation script to automate the order placement according to client requirements. All the files and code are in this repository.
 
