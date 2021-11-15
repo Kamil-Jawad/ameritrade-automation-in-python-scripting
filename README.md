@@ -47,4 +47,8 @@ The folder "requirements and orders sample" contains the requiremt of the client
 
 "config.py" conatians api_key and redirect url etc.
 
+                                                        "ameritrade_2" is the new project folder of ameritrade
+"sample and requirements" folder contains the requiremnet and sample files.
+"trade.py" contains the logic part of the project.
+
 
